@@ -46,7 +46,7 @@ authorization:
 
 limits:
   max_depth: 5
-  max_height: 13
+  max_height: 6
   max_aliases: 3
 
 
