@@ -46,7 +46,7 @@ authorization:
 
 limits:
   max_depth: 15
-  max_height: 6
+  max_height: 15
   max_aliases: 3
 
 coprocessor:
